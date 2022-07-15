@@ -2,7 +2,7 @@
 
 ## Abstract:
 
-<p align="justify">This project consist of web-scrapping, cleaning and preparing text data following the common <b>Natural Language Processing</b> (NLP) techniques to apply simple machine learning models in order to leverage predictive analytics to conduct sentiment analysis and classify Google reviews as either Bad (1, 2, and 3 stars) or Goob (4 and 5 stars). This project was conducted from January 2022 to April 2022 as a student at <b>Ivey Business School</b>. Below are a few paragraphs to give you context about the project.</p> 
+<p align="justify">This project consist of web-scrapping, cleaning and preparing text data following the common <b>Natural Language Processing</b> (NLP) techniques to apply simple machine learning models in order to leverage predictive analytics to conduct sentiment analysis and classify Google reviews as either Bad (1, 2, and 3 stars) or Good (4 and 5 stars). This project was conducted from January 2022 to April 2022 as a student at <b>Ivey Business School</b>. Below are a few paragraphs to give you context about the project.</p> 
 
 ## Repository Assets:
 
@@ -16,7 +16,7 @@
 
 ## Problem Description:
 
-<p align="justify"> In this project we want to assess the power of <b>NLP</b> techniques, to retrive <b>Sentiment Information</b> from text data by using simple <b>Machine Learning Models</b> trained on a thoroughly cleaned and prepared data to measure the potential of <b>Predictive Analytics</b> on text data to support restaurants and services businesses to master their feedback loop and make full use of the customer's feedback information.</p>
+<p align="justify"> In this project we want to assess the power of <b>NLP</b> techniques, to retrieve <b>Sentiment Information</b> from text data by using simple <b>Machine Learning Models</b> trained on a thoroughly cleaned and prepared data to measure the potential of <b>Predictive Analytics</b> on text data to support restaurants and services businesses to master their feedback loop and make full use of the customer's feedback information.</p>
 
 ## Project Requirements
 ```
